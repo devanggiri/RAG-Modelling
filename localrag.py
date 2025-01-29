@@ -102,7 +102,7 @@ conversation_history = []
 system_message = "You are a helpful assistant that is an expert at extracting the most useful information from a given text"
 
 while True:
-    user_input = input(YELLOW + "Ask a question about your documents (or type 'quit' to exit): " + RESET_COLOR)
+    user_input = input("Ask a question about your documents (or type 'quit' to exit): ")
     if user_input.lower() == 'quit':
         break
 
