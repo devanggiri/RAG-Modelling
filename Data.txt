@@ -1,0 +1,200 @@
+doctor_schedule_Dr_Anika_Sharma_Cardiology
+Monday: 9:00 AM - 1:00 PM, 3:00 PM - 6:00 PM; Tuesday: 10:00 AM - 2:00 PM; Wednesday: 9:00 AM - 1:00 PM, 3:00 PM - 6:00 PM; Thursday: 10:00 AM - 2:00 PM; Friday: 9:00 AM - 1:00 PM
+doctor_schedule_Dr_Rohan_Gupta_Pediatrics
+Monday: 2:00 PM - 5:00 PM; Tuesday: 9:00 AM - 12:00 PM, 4:00 PM - 7:00 PM; Wednesday: 2:00 PM - 5:00 PM; Thursday: 9:00 AM - 12:00 PM, 4:00 PM - 7:00 PM; Friday: 10:00 AM - 1:00 PM
+symptom_aid_cough_chest_pain_shortness_breath
+These could be signs of a heart condition. Consult a Cardiologist immediately. Dr. Anika Sharma is available. Do not delay.
+symptom_aid_high_fever_sore_throat_body_aches
+Common flu symptoms. Rest, fluids, over-the-counter pain relievers. If worsens, consult a doctor.
+symptom_aid_abdominal_pain_nausea_vomiting
+Could be various reasons. Stay hydrated. If pain severe or continues, seek medical attention. Dr. Rohan Gupta (Pediatrics) available for children.
+blood_availability_A+
+5 units
+blood_availability_O-
+2 units
+blood_availability_AB+
+10 units
+ambulance_availability_City_Center
+Available
+ambulance_availability_Suburb_A
+Busy
+doctor_details_Dr_Anika_Sharma_Cardiology
+Experience: 15 years; Qualifications: MBBS, MD (Cardiology); Contact: 9876543210
+doctor_details_Dr_Rohan_Gupta_Pediatrics
+Experience: 10 years; Qualifications: MBBS, DNB (Pediatrics); Contact: 9988776655
+hospital_info_City_General_Hospital
+Address: 123 Main Street, Jaipur; Contact: 0123-456789; Services: Cardiology, Pediatrics, Emergency, Blood Bank
+doctor_schedule_Dr_Meera_Patel_Dermatology
+Monday: 11:00 AM - 3:00 PM; Wednesday: 2:00 PM - 6:00 PM; Friday: 9:00 AM - 1:00 PM
+symptom_aid_skin_rash_itching_redness
+Could be a skin allergy. Avoid irritants. Consult a Dermatologist. Dr. Meera Patel is available.
+blood_availability_B+
+8 units
+ambulance_availability_Hospital_Road
+Available
+doctor_details_Dr_Meera_Patel_Dermatology
+Experience: 8 years; Qualifications: MBBS, MD (Dermatology); Contact: 8765432109
+symptom_aid_headache_fever_stiff_neck
+Possible meningitis. Seek immediate medical attention. Emergency services are available.
+blood_availability_O+
+12 units
+ambulance_availability_New_District
+Busy
+symptom_aid_runny_nose_sneezing_congestion
+Common cold symptoms. Rest, fluids, over-the-counter decongestants. Consult a doctor if symptoms persist.
+doctor_schedule_Dr_Vijay_Kumar_Orthopedics
+Tuesday: 1:00 PM - 5:00 PM; Thursday: 9:00 AM - 1:00 PM; Saturday: 10:00 AM - 2:00 PM
+symptom_aid_joint_pain_swelling_stiffness
+Could be arthritis or an injury. Consult an Orthopedic specialist. Dr. Vijay Kumar is available.
+blood_availability_A-
+3 units
+ambulance_availability_Industrial_Area
+Available
+doctor_details_Dr_Vijay_Kumar_Orthopedics
+Experience: 12 years; Qualifications: MBBS, MS (Orthopedics); Contact: 7654321098
+hospital_info_Apollo_Hospital
+Address: 456 Ring Road, Jaipur; Contact: 0141-234567; Services: Cardiology, Dermatology, Orthopedics, Emergency, Blood Bank, Neurology
+doctor_schedule_Dr_Aarav_Joshi_Neurology
+Monday: 10:00 AM - 2:00 PM; Wednesday: 1:00 PM - 5:00 PM; Friday: 2:00 PM - 6:00 PM
+doctor_schedule_Dr_Priya_Reddy_Oncology
+Tuesday: 9:00 AM - 1:00 PM; Thursday: 2:00 PM - 6:00 PM; Saturday: 11:00 AM - 3:00 PM
+symptom_aid_sudden_severe_headache_numbness_weakness
+Possible stroke. Seek immediate medical attention. Emergency services dispatched.
+symptom_aid_persistent_fever_night_sweats_weight_loss
+Could indicate a serious infection or other condition. Consult a doctor promptly.
+symptom_aid_chest_pain_radiating_to_arm_sweating
+Possible heart attack. Call emergency services immediately. Do not delay.
+blood_availability_A-
+7 units
+blood_availability_B-
+4 units
+blood_availability_AB-
+1 unit
+ambulance_availability_MG_Road
+Available
+ambulance_availability_Civil_Lines
+Busy
+doctor_details_Dr_Aarav_Joshi_Neurology
+Experience: 18 years; Qualifications: MBBS, DM (Neurology); Contact: 9786543210
+doctor_details_Dr_Priya_Reddy_Oncology
+Experience: 12 years; Qualifications: MBBS, MD (Oncology); Contact: 8976543210
+hospital_info_Fortis_Hospital
+Address: 789 MI Road, Jaipur; Contact: 0141-567890; Services: Neurology, Oncology, Cardiology, Emergency, Blood Bank
+doctor_schedule_Dr_Neha_Sharma_ENT
+Monday: 2:00 PM - 6:00 PM; Wednesday: 9:00 AM - 1:00 PM; Friday: 11:00 AM - 3:00 PM
+symptom_aid_ear_pain_discharge_hearing_loss
+Possible ear infection. Consult an ENT specialist. Dr. Neha Sharma is available.
+blood_availability_O-
+9 units
+ambulance_availability_Tonk_Road
+Available
+doctor_details_Dr_Neha_Sharma_ENT
+Experience: 9 years; Qualifications: MBBS, MS (ENT); Contact: 7896543210
+symptom_aid_severe_abdominal_pain_bloating_vomiting
+Could be a gastrointestinal issue. Seek medical attention.
+blood_availability_A+
+11 units
+ambulance_availability_Ajmer_Road
+Busy
+symptom_aid_back_pain_sciatica_numbness_leg
+Possible herniated disc or nerve compression. Consult an Orthopedic specialist.
+doctor_schedule_Dr_Rajesh_Mehta_Urology
+Tuesday: 10:00 AM - 2:00 PM; Thursday: 1:00 PM - 5:00 PM; Saturday: 9:00 AM - 1:00 PM
+symptom_aid_painful_urination_frequent_urination_blood_in_urine
+Possible urinary tract infection or kidney stones. Consult a Urologist. Dr. Rajesh Mehta available.
+blood_availability_B+
+6 units
+ambulance_availability_Sikar_Road
+Available
+doctor_details_Dr_Rajesh_Mehta_Urology
+Experience: 14 years; Qualifications: MBBS, MS (Urology); Contact: 6987543210
+hospital_info_SMS_Hospital
+Address: 1011 JLN Marg, Jaipur; Contact: 0141-901234; Services: ENT, Urology, Orthopedics, General Surgery, Emergency, Blood Bank
+doctor_schedule_Dr_Kavita_Singh_Gynecology
+Monday: 9:00 AM - 1:00 PM; Wednesday: 2:00 PM - 6:00 PM; Friday: 10:00 AM - 2:00 PM
+symptom_aid_heavy_menstrual_bleeding_pelvic_pain
+Possible gynecological issue. Consult a Gynecologist. Dr. Kavita Singh is available.
+blood_availability_AB+
+2 units
+ambulance_availability_Delhi_Road
+Busy
+doctor_details_Dr_Kavita_Singh_Gynecology
+Experience: 10 years; Qualifications: MBBS, MD (Gynecology); Contact: 5987643210
+symptom_aid_nausea_vomiting_morning_sickness
+Common during pregnancy. Consult a Gynecologist for management and advice.
+blood_availability_O+
+15 units
+ambulance_availability_Jagatpura
+Available
+doctor_schedule_Dr_Vikram_Bhatnagar_Cardiology
+Tuesday: 11:00 AM - 3:00 PM; Thursday: 2:00 PM - 6:00 PM; Saturday: 9:00 AM - 1:00 PM
+doctor_schedule_Dr_Smita_Khanna_Pulmonology
+Monday: 1:00 PM - 5:00 PM; Wednesday: 10:00 AM - 2:00 PM; Friday: 2:00 PM - 6:00 PM
+symptom_aid_persistent_cough_wheezing_shortness_breath
+Could be a respiratory issue. Consult a Pulmonologist. Dr. Smita Khanna is available.
+symptom_aid_high_fever_chills_muscle_aches
+Possible viral infection. Rest, fluids, and consult a doctor if symptoms persist.
+symptom_aid_severe_headache_visual_disturbances_nausea
+Possible migraine or other neurological condition. Consult a Neurologist.
+blood_availability_A+
+13 units
+blood_availability_O-
+6 units
+blood_availability_B-
+2 units
+ambulance_availability_Malviya_Nagar
+Available
+ambulance_availability_Sitapura
+Busy
+doctor_details_Dr_Vikram_Bhatnagar_Cardiology
+Experience: 20 years; Qualifications: MBBS, DM (Cardiology); Contact: 9675432108
+doctor_details_Dr_Smita_Khanna_Pulmonology
+Experience: 15 years; Qualifications: MBBS, MD (Pulmonology); Contact: 8796453210
+hospital_info_Global_Hospital
+Address: 1213 Tonk Road, Jaipur; Contact: 0141-890123; Services: Cardiology, Pulmonology, Neurology, Gastroenterology, Emergency, Blood Bank
+doctor_schedule_Dr_Rahul_Verma_Gastroenterology
+Monday: 9:00 AM - 1:00 PM; Wednesday: 2:00 PM - 6:00 PM; Friday: 11:00 AM - 3:00 PM
+symptom_aid_abdominal_pain_diarrhea_bloating
+Possible gastrointestinal issue. Consult a Gastroenterologist. Dr. Rahul Verma is available.
+blood_availability_AB+
+9 units
+ambulance_availability_Vaishali_Nagar
+Available
+doctor_details_Dr_Rahul_Verma_Gastroenterology
+Experience: 11 years; Qualifications: MBBS, MS (General Surgery), DM (Gastroenterology); Contact: 7986543210
+symptom_aid_heartburn_indigestion_acid_reflux
+Possible GERD or other digestive issue. Consult a Gastroenterologist.
+blood_availability_O+
+10 units
+ambulance_availability_Mansarovar
+Busy
+symptom_aid_fatigue_weakness_weight_gain
+Could be a hormonal imbalance. Consult an Endocrinologist.
+doctor_schedule_Dr_Deepika_Agarwal_Endocrinology
+Tuesday: 10:00 AM - 2:00 PM; Thursday: 1:00 PM - 5:00 PM; Saturday: 9:00 AM - 1:00 PM
+symptom_aid_excessive_thirst_frequent_urination_blurred_vision
+Possible diabetes. Consult an Endocrinologist. Dr. Deepika Agarwal is available.
+blood_availability_A-
+5 units
+ambulance_availability_Shyam_Nagar
+Available
+doctor_details_Dr_Deepika_Agarwal_Endocrinology
+Experience: 16 years; Qualifications: MBBS, MD (Internal Medicine), DM (Endocrinology); Contact: 6897543210
+hospital_info_Kokilaben_Hospital
+Address: 1415 Ajmer Road, Jaipur; Contact: 0141-678901; Services: Gastroenterology, Endocrinology, Nephrology, Psychiatry, Emergency, Blood Bank
+doctor_schedule_Dr_Sanjay_Mehra_Nephrology
+Monday: 2:00 PM - 6:00 PM; Wednesday: 9:00 AM - 1:00 PM; Friday: 10:00 AM - 2:00 PM
+symptom_aid_decreased_urine_output_swelling_ankles
+Possible kidney issue. Consult a Nephrologist. Dr. Sanjay Mehra is available.
+blood_availability_B+
+7 units
+ambulance_availability_Bani_Park
+Busy
+doctor_details_Dr_Sanjay_Mehra_Nephrology
+Experience: 13 years; Qualifications: MBBS, MD (Internal Medicine), DM (Nephrology); Contact: 5798643210
+symptom_aid_blood_in_urine_flank_pain_fever
+Possible kidney stones or infection. Consult a Nephrologist.
+blood_availability_AB-
+3 units
+ambulance_availability_Vidhyadhar_Nagar
+Available
